@@ -24,10 +24,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Screenshot |
-|---------|-------------|------------|
-| *Cartify* | E-commerce app with *product search, **cart, and **order placement* | ![Cartify Screenshot]([https://via.placeholder.com/100](https://github.com/Moaz911gt/cartify)) |
-| *Note-App* | Simple note-taking application with *CRUD & search functions* | ![Note-App Screenshot]([https://via.placeholder.com/100](https://github.com/Moaz911gt/note-app)) |
+| Project | Description |
+|---------|-------------|
+| [*Cartify](https://github.com/Moaz911gt/Cartify) | E-commerce app with **product search, **cart, and **order placement* |
+| [*Note-App](https://github.com/Moaz911gt/Note-App) | Simple note-taking application with **CRUD & search functions* |
 
 ---
 
