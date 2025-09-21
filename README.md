@@ -38,7 +38,8 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- 📧 Email: waleedmoaz65@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/moazwaleed](linkedin.com/in/moaz-waleed-ba946b30b)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](waleedmoaz65@gmail.com )  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/moaz-waleed-ba946b30b)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moaz911gt)  
