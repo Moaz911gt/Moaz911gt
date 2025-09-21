@@ -1,19 +1,19 @@
 # Hi there 👋 I’m Moaz Waleed
 
-Junior Flutter Developer | Dart Enthusiast | Firebase & REST API Specialist
+*Junior Flutter Developer | Dart Enthusiast | Firebase & REST API Specialist*
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- Flutter developer with experience building user-friendly mobile applications  
-- Passionate about clean architecture and performance optimization  
-- Always learning more about backend integrations and advanced state management  
-- Open to collaborating on mobile app projects and contributing to open source  
+- 📱 Flutter developer building *user-friendly mobile apps*  
+- ⚡ Passionate about *clean architecture* and *performance optimization*  
+- 💼 Currently training as a Flutter Developer at *INFOSAS*  
+- 👯 Open to collaborating on *Flutter & mobile app projects*  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - *Languages:* Dart, C++  
 - *Frameworks / State Management:* Flutter, Cubit / Bloc  
@@ -22,24 +22,23 @@ Junior Flutter Developer | Dart Enthusiast | Firebase & REST API Specialist
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| *Cartify* | An e-commerce app with product search, cart, and order placement features. |
-| *Note-App* | Simple note-taking application with CRUD and search functions. |
-| *Other Demo Projects* | Responsive UI designs, dashboards, small utility applications. |
+| Project | Description | Screenshot |
+|---------|-------------|------------|
+| *Cartify* | E-commerce app with *product search, **cart, and **order placement* | ![Cartify Screenshot]([https://via.placeholder.com/100](https://github.com/Moaz911gt/cartify)) |
+| *Note-App* | Simple note-taking application with *CRUD & search functions* | ![Note-App Screenshot]([https://via.placeholder.com/100](https://github.com/Moaz911gt/note-app)) |
 
 ---
 
-## 🔧 GitHub Stats
+## 📊 GitHub Stats
 
 ![Moaz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Moaz911gt&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moaz911gt&layout=compact)  
 
 ---
 
-## Contact
+## 📫 Contact
 
-- 📧 Email: yourname@example.com  
-- 💼 LinkedIn: [linkedin.com/in/<username>](https://www.linkedin.com/in/<username>)
+- 📧 Email: waleedmoaz65@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/moazwaleed](linkedin.com/in/moaz-waleed-ba946b30b)  
