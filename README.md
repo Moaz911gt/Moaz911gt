@@ -10,7 +10,9 @@
 - ⚡ Passionate about *clean architecture* and *performance optimization*  
 - 💼 Currently training as a Flutter Developer at *INFOSAS*  
 - 👯 Open to collaborating on *Flutter & mobile app projects*  
-- [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=flow&logoColor=white)](https://flowcv.com/resume/aecnntlkrenr)  
+
+ 
+ [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=flow&logoColor=white)](https://flowcv.com/resume/aecnntlkrenr)  
 ---
 
 ## 🛠 Tech Stack
